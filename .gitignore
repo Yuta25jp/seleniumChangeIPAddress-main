@@ -1,0 +1,7 @@
+__pycache__/
+.python-version
+bin/
+include/
+lib/
+chromedriver
+memo.txt
